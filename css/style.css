@@ -41,7 +41,7 @@ a {
 }
 
 .text-custom {
-    color: #2a56db;
+    color: #0000ff;
 }
 
 .bg-overlay {
@@ -53,7 +53,7 @@ a {
 }
 
 .bg-custom {
-    background-color: #2a56db;
+    background-color: #0000ff;
 }
 
 .btn {
@@ -100,7 +100,7 @@ a {
 }
 
 .title-icon {
-    color: #2a56db;
+    color: #0000ff;
     font-size: 36px;
 }
 
@@ -123,7 +123,7 @@ a {
 ======================================*/
 
 .home-bg-color {
-    background-color: #2a56db;
+    background-color: #0000ff;
     padding-top: 80px;
     position: relative;
 }
@@ -245,7 +245,7 @@ a {
 }
 
 .features-more {
-    color: #2a56db !important;
+    color: #0000ff !important;
 }
 
 
@@ -285,8 +285,8 @@ a {
     transform: scale(1.1);
     transition: all 0.5s;
     color: #fff;
-    background: #2a56db;
-    box-shadow: 0 0 3px #2a56db;
+    background: #0000ff;
+    box-shadow: 0 0 3px #0000ff;
 }
 
 .service-desc h5 {
@@ -381,7 +381,7 @@ a {
 .user-title {
     font-size: 12px;
     font-weight: 600;
-    color: #2a56db;
+    color: #0000ff;
 }
 
 .faq-sub-title {
@@ -509,7 +509,7 @@ textarea.form-control {
 }
 
 .login-form .form-control:focus {
-    border-color: #2a56db;
+    border-color: #0000ff;
 }
 
 .forgot-pass-txt {
@@ -521,11 +521,11 @@ textarea.form-control {
 }
 
 .custom-checkbox .custom-control-input:checked~.custom-control-label::before {
-    background-color: #2a56db;
+    background-color: #0000ff;
 }
 
 .alert-custom{
-    color: #2a56db;
+    color: #0000ff;
     background-color: rgba(99, 98, 184, 0.2);
     border-color: rgba(99, 98, 184, .7);
 }
