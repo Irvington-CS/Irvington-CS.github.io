@@ -30,6 +30,10 @@ a {
     outline: none !important;
 }
 
+spacer {
+    height: 20px
+}
+
 
 /*=====================
     1.HELPER
@@ -42,6 +46,7 @@ a {
 
 .text-custom {
     color: #5151e8;
+    text-align: center;
 }
 
 .bg-overlay {
@@ -115,6 +120,7 @@ a {
     -webkit-justify-content: center;
     flex-direction: row;
     -webkit-flex-direction: row;
+    margin-top: 3%;
 }
 
 
@@ -237,6 +243,20 @@ a {
 .features-desc h5 {
     font-size: 20px;
     color: #000;
+    text-align: center;
+}
+
+.features-desc p {
+    font-size: 16px;
+    color: #000;
+    text-align: center;
+}
+
+.features-desc a {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 43%
 }
 
 .features-more i {
@@ -246,6 +266,7 @@ a {
 
 .features-more {
     color: #5151e8 !important;
+    text-align: center;
 }
 
 
@@ -573,7 +594,7 @@ textarea.form-control {
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 100%) {
     .vertical-content {
         display: inherit;
     }
