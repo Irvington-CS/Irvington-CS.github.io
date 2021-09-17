@@ -4445,7 +4445,15 @@
   }
 
   .team-photo._11 {
-    background-image: url("../assets/akshaj.png");
+    background-image: url("../assets/suhani.jpg");
+  }
+
+  .team-photo._12 {
+    background-image: url("../assets/kalyan.jpg");
+  }
+
+  .team-photo._13 {
+    background-image: url("../assets/freddy.jpg");
   }
    
    .social-wrapper {
